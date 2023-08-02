@@ -4,5 +4,7 @@ Conducted a comprehensive analysis of Myntra's dataset by leveraging Python libr
 Please find a few screenshots of the analysis below.
 
 ![](img1.PNG)
+
 ![](img2.PNG)
-![](img3.png)
+
+![](img3.PNG)
